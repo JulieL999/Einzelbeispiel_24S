@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Einzelbeispiel_24S</string>
+    <string name="invalid_number">Seit dem Jahr 2017 bestehen alle Matrikelnummer in Oesterreich aus 8 Zahlen.
+    Daher ist dieser Matrikelnummer leider ungueltig :/</string>
 </resources>
